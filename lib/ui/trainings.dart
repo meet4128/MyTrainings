@@ -9,6 +9,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../widgets/sliderScreen.dart';
 
 class TrainingsView extends StatefulWidget {
+
   @override
   _TrainingsViewState createState() => _TrainingsViewState();
 }
