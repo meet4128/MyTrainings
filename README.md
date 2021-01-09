@@ -1,4 +1,4 @@
-# flutter_app
+# MyTrainings Flutter App
 
 A new Flutter application.
 
